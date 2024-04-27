@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "values-calculator",
+    "slug": "snack-6582fb6a-ae12-4767-9544-8db4702f3547",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.mjurisic.snack6582fb6aae12476795448db4702f3547"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "add1dbdf-0a42-4ed1-8464-13cdc02edd94"
+      }
+    }
+  }
+}
